@@ -35,15 +35,40 @@ const promptUser = () => {
     },
     {
       type: 'input',
-      name: 'linkedin',
-      message: 'Enter your LinkedIn URL.',
+      name: 'repository',
+      message: 'Link to your repository.',
+    },
+    {
+      type: 'input',
+      name: 'example',
+      message: 'Do you have a link to an example of the project?',
     },
   ])
   
 }
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+const writeToFile = ({github, email, title, description, license, repository, example}) => {
+`# Title
+
+## About / Synopsis
+
+
+## Table of contents
+
+> * [Title](#title)
+>   * [About / Synopsis](#about--synopsis)
+>   * [Table of contents](#table-of-contents)
+>   * [Installation](#installation)
+>     * [Screenshots](#screenshots)
+>   * [License](#license)
+
+## Installation
+
+### Screenshots
+
+## License`
+}
 
 // TODO: Create a function to initialize app
 function init() {}
