@@ -39,7 +39,7 @@ const questions = [
   {
     type: "input",
     name: "example",
-    message: "Do you have a link to an example of the project?",
+    message: "Do you have a relative path to a project example?",
   },
 ]
 

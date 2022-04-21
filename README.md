@@ -1,34 +1,33 @@
 
   # asdfasdf
 
-  ---
-
-  ## asdfasdf
 
   ---
+  # Description
 
-  ## Table of contents
+  asdfasdf
+
+  ---
+  # Table of contents
   
   > * [Title](#title)
   >   * [Description](#description)
   >   * [Contact](#email)
-  >     * [Example](#example)
-  >   * [Repository](#repository)
-  >   * [License](#license)
+  >   * [Example](#example)
+  >   * [Repository](#example)
+---
+  # Contact
 
-  ---
+  Email: asdfasdf
 
-  ## asdfasdf
+  [GitHub Profile](https://github.com/asdfasdf)
 
-  ---
+---
+  # Project Example:
 
-### asdfasdf
+  [GitHub Repository](asdfasdf)
 
-  ---
-  ## asdfasdf
+  ![example]()
 
-  ---
-
-  ## License
-  ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
   
