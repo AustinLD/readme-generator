@@ -1,0 +1,13 @@
+AustinLD
+
+https://github.com/AustinLD/readme-generator
+
+assets\images\testingimage.png
+
+
+AustinLDonovan@gmail.com
+
+Readme Generator
+
+
+This application utilizes Node.js to prompt the user with questions, and generate a readme file for the user based on the information provided.

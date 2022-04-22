@@ -34,12 +34,12 @@ const questions = [
   {
     type: "input",
     name: "repository",
-    message: "Link to your repository.",
+    message: "Link to project repository.",
   },
   {
     type: "input",
     name: "example",
-    message: "Do you have a relative path to a project example?",
+    message: "Please link relative path to a project example.",
   },
 ]
 
